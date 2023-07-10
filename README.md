@@ -22,9 +22,9 @@
   <summary>Click to expand!</summary>
   
 ### 230529
-+ [요격시스]([https://www.acmicpc.net/problem/1300](https://school.programmers.co.kr/learn/courses/30/lessons/181188))
++ [요격시스템]([https://www.acmicpc.net/problem/1300](https://school.programmers.co.kr/learn/courses/30/lessons/181188))
 + [연속된 부분수열의 합]([https://www.acmicpc.net/problem/11758](https://school.programmers.co.kr/learn/courses/30/lessons/178870))
-+ [뒤에 있는 큰 수 찾](https://school.programmers.co.kr/learn/courses/30/lessons/154539)
++ [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)
 
 <details>
   <summary>이전 주 문제들!</summary>
