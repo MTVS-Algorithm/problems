@@ -1,6 +1,6 @@
 <div align="center">
 
-# Algo-Inha
+# MTVS-Algorithm
 
 ![languages](https://img.shields.io/github/languages/count/MTVS-Algorithm/problems)
 ![issues](https://img.shields.io/github/issues-pr/MTVS-Algorithm/problems)
